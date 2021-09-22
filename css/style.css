@@ -129,7 +129,7 @@ iframe {
   border: 5px inset #EA2E25;
 }
 .tamanio{
-  height: 350px;
+  height: auto;
   }
 .mini{
   height: 60px;
