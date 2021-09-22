@@ -3,10 +3,13 @@ body{
   background-color: #EBF5FB;
 }
 
+
 nav{
   font-family: 'Ubuntu', sans-serif;
   font-weight: bold;
 }
+
+
 .carusel{
   margin-top: 80px;
 }
@@ -75,8 +78,8 @@ p{
   text-align: center;
   width: 100%;
   margin: 0px auto;
-  font-size: 80px;
-  letter-spacing: 20px;
+  font-size: 90px;
+  letter-spacing: 7px;
   text-shadow: 5px 5px 5px #0C447F;
   padding-top: 35px;
 }
@@ -427,6 +430,7 @@ footer {
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) {}
 
+
 img.pequenia {
   width: 25px; height: 25px;
   margin-top: 10px;
@@ -547,7 +551,7 @@ img.pequenia {
   left: 0;
   right: 0;
   bottom: 0;
-  background: red;
+  background: #82CAA2;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transform-origin: 0 50%;
@@ -560,7 +564,7 @@ img.pequenia {
   transition-timing-function: ease-out;
 }
 .hvr-sweep-to-right2:hover, .hvr-sweep-to-right2:focus, .hvr-sweep-to-right2:active {
-  color: white;
+  color: #021B0D;
 }
 .hvr-sweep-to-right2:hover:before, .hvr-sweep-to-right2:focus:before, .hvr-sweep-to-right2:active:before {
   -webkit-transform: scaleX(1);
