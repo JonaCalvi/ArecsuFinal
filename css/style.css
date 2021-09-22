@@ -8,7 +8,10 @@ nav{
   font-family: 'Ubuntu', sans-serif;
   font-weight: bold;
 }
-
+.card-img-top1{
+  max-height: 640px;
+  width: auto;
+}
 
 .carusel{
   margin-top: 80px;
@@ -696,4 +699,15 @@ img.pequenia {
 .hvr-sink:hover, .hvr-sink:focus, .hvr-sink:active {
   -webkit-transform: translateY(8px);
   transform: translateY(8px);
+}
+
+.gradient-custom5 {
+  /* fallback for old browsers */
+  background: #4facfe;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to bottom, rgba(79, 172, 254, 0.5), rgba(0, 242, 254, 0.5));
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to bottom, rgba(79, 172, 254, 0.5), rgba(0, 242, 254, 0.5))
 }

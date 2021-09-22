@@ -8,6 +8,10 @@ nav{
   font-family: 'Ubuntu', sans-serif;
   font-weight: bold;
 }
+.mini{
+  height: 60px;
+  width: 180px;
+}
 
 body{
 	height: 100vh;
@@ -190,9 +194,6 @@ textarea{
     border: 2px solid rgba(30,85,250,0.47);
     background-color: #fff;
 }
-.mini{
-  height: 60px;
-  width: 150px;
 
 @media screen and (max-width: 880px){
 	.contact-box{
