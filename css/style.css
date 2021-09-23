@@ -8,6 +8,10 @@ nav{
   font-family: 'Ubuntu', sans-serif;
   font-weight: bold;
 }
+.nave{
+  max-width: 100%;
+  min-width: 390px;
+}
 .card-img-top1{
   max-height: 640px;
   width: auto;
