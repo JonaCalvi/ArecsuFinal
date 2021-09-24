@@ -403,7 +403,13 @@ h5.caja2:hover:before {
 .custom-shape-divider-top-1630250900 .shape-fill {
     fill: #8492b0;
 }
-
+#btn-back-to-top {
+  position: fixed;
+  bottom: 70px;
+  right: 20px;
+  display: none;
+  left: auto;
+}
 
   /* I have multiple triangles on my site so I have an additional class for different colour versions*/
 
@@ -416,7 +422,21 @@ footer {
   font-size: 10px; 
   text-align: center;
 }
-
+btn-back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+}
+.ajusteFooter{
+  display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    align-content: center;
+    justify-content: space-evenly;
+}
 
 
 /*.carousel-inner > .carousel-item > img { height: 360px; width: 240px; }*/
