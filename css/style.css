@@ -68,6 +68,14 @@ p{
   filter: blur(2px);
 
 }
+.btn-circle.btn-sm {
+            width: 30px;
+            height: 30px;
+            padding: 6px 0px;
+            border-radius: 15px;
+            font-size: 8px;
+            text-align: center;
+        }
 
 .featurette{
   font-family: 'Ubuntu', sans-serif;
@@ -146,7 +154,8 @@ iframe {
 .listas ul,
 .listas li{
   text-align: left;
-  display: inline-block;
+  
+  list-style: disc;
 
 }
 h2{
