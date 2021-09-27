@@ -30,8 +30,8 @@ img.pequenia {
  margin-top: 20px;
 }
 hr.rounded {
-  border-top: 8px solid #bbb;
-  border-radius: 5px;
+  border-top: 2px solid green;
+  border-radius: 2px;
 }
 .ajusteFooter{
   display: flex;
@@ -45,7 +45,8 @@ hr.rounded {
 .user-card-full {
     overflow: hidden
 }
-
+.fas{
+	color: blue;
 }
 
 .card {
