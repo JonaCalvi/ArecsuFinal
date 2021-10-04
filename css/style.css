@@ -28,7 +28,7 @@ width: 100%;
 height: auto;
 }
 .ancho{
-  max-width: 2632px !important;
+  max-width: auto !important;
 }
 
 .soluciones{color: black;}
