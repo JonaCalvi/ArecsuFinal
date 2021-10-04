@@ -48,7 +48,7 @@ p{
 
 .titulos{
   font-family: 'Ubuntu', sans-serif;
-  font-weight: bold;
+  font-weight:;
   text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);
 }
 .opaco{
@@ -600,7 +600,7 @@ img.pequenia {
   transition-timing-function: ease-out;
 }
 .hvr-sweep-to-right2:hover, .hvr-sweep-to-right2:focus, .hvr-sweep-to-right2:active {
-  color: #021B0D;
+  color: white;
 }
 .hvr-sweep-to-right2:hover:before, .hvr-sweep-to-right2:focus:before, .hvr-sweep-to-right2:active:before {
   -webkit-transform: scaleX(1);
