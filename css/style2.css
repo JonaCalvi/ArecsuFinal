@@ -344,7 +344,7 @@ textarea{
 		grid-template-columns: 1fr;
 	}
 	.left{
-		height: 50px;
+		height: 80px;
 	}
 	.right{
 		width: 400px;
